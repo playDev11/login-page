@@ -159,6 +159,13 @@ body{
 .social-icons{
     margin: 20px 0;
 }
+@media only screen and (max-width: 378px){
+    .sign-in{
+        font-size: 0.7rem;
+        font-weight: 200;
+        line-height: 1.7rem;
+    }
+}
 
 .social-icons a{
     border: 1px solid #ccc;
