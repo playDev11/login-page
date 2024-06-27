@@ -166,6 +166,20 @@ body{
         line-height: 1.7rem;
     }
 }
+@media only screen and (max-width: 767px ) {
+    .sign-in h1{
+        font-size: 1.45rem;
+        letter-spacing: 0.2rem;
+        margin-bottom: 1rem;
+        font-weight: 700;
+    }
+    .sign-up h1{
+        font-size: 1.45rem;
+        letter-spacing: 0.2rem;
+        margin-bottom: 1rem;
+        font-weight: 700;
+    }
+}
 
 .social-icons a{
     border: 1px solid #ccc;
